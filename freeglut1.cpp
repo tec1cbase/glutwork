@@ -3,7 +3,7 @@
 #include <GL/glx.h>    
 #include <GL/gl.h>
 #include <GL/glut.h>
-
+/// work inprogress has issues 
 
 void init()
 {
